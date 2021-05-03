@@ -12,6 +12,19 @@
   background-color: hsl(0, 0%, 93%);
 }
 
+/* ________________________ */
+.section__button--lightslategrey.section__button--lightslategrey {
+  left: 80vw;
+  position: absolute;  
+  background-color: hsl(210, 14%, 53%);
+  color: hsl(0, 0%, 100%);
+}
+
+.section__button--lightslategrey.section__button--lightslategrey:hover {
+  background-color: hsl(210, 14%, 53%);
+}
+/* ________________________ */
+
 .section__button--lightslategrey {
   background-color: hsl(210, 14%, 53%);
   color:hsl(0, 0%, 100%);
